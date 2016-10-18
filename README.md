@@ -6,6 +6,7 @@ If you want to test these out, I recommend experimenting with Learning Locker LR
 
 Here's my video on installing Learning Locker on Amazon Web Services (AWS).
 [Installing Learning Locker](https://www.youtube.com/watch?v=51Dci7B49xA)
+[![Installing Learning Locker](https://img.youtube.com/vi/51Dci7B49xA/0.jpg)](https://www.youtube.com/watch?v=51Dci7B49xA)
 
 ## The Code
 Visit the wiki for some explanation.
